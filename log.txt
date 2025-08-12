@@ -183,3 +183,27 @@
 2025-08-12 11:20:07,672 [WARNING] - Rate limit hit. Pausing for a moment.
 2025-08-12 11:20:07,673 [INFO] - Attack finished. Password not found in the wordlist.
 2025-08-12 11:20:07,674 [INFO] - Total execution time: 1.05 seconds.
+2025-08-12 22:04:57,295 [INFO] - Starting brute-force attack on http://127.0.0.1:5000/login for user 'testuser'.
+2025-08-12 22:04:57,297 [INFO] - Loaded 8 passwords from wordlist.
+2025-08-12 22:04:57,814 [INFO] - Trying password: 'myPass' -> Status: 401, Response: Invalid credentials
+2025-08-12 22:04:57,816 [INFO] - Trying password: 'mypassoerd' -> Status: 401, Response: Invalid credentials
+2025-08-12 22:04:57,821 [INFO] - Trying password: '112345678' -> Status: 401, Response: Invalid credentials
+2025-08-12 22:04:57,826 [INFO] - Trying password: 'password123' -> Status: 401, Response: Invalid credentials
+2025-08-12 22:04:57,828 [INFO] - Trying password: 'password' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 22:04:57,829 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 22:04:58,325 [INFO] - Trying password: 'mypassword12345' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 22:04:58,327 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 22:04:58,334 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 22:04:58,335 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 22:04:58,348 [INFO] - Trying password: 'MYPASSWORDF' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 22:04:58,349 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 22:04:58,350 [INFO] - Attack finished. Password not found in the wordlist.
+2025-08-12 22:04:58,354 [INFO] - Total execution time: 1.06 seconds.
+2025-08-12 22:26:03,559 [INFO] - Starting enhanced brute-force attack on http://127.0.0.1:5000/login for user 'testuser'.
+2025-08-12 22:26:03,560 [INFO] - Configuration: Max threads: 3, Delay range: (0.5, 2.0)
+2025-08-12 22:26:03,563 [INFO] - Loaded 94 passwords from wordlist.
+2025-08-12 22:26:03,564 [ERROR] - Cannot connect to target: Retry.__init__() got an unexpected keyword argument 'method_whitelist'
+2025-08-12 22:26:52,637 [INFO] - Starting enhanced brute-force attack on http://127.0.0.1:5000/login for user 'testuser'.
+2025-08-12 22:26:52,638 [INFO] - Configuration: Max threads: 3, Delay range: (0.5, 2.0)
+2025-08-12 22:26:52,639 [INFO] - Loaded 94 passwords from wordlist.
+2025-08-12 22:26:52,640 [ERROR] - Cannot connect to target: Retry.__init__() got an unexpected keyword argument 'method_whitelist'

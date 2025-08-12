@@ -1,2 +1,8 @@
 Flask
 requests
+colorama
+fake-useragent
+pymongo
+dnspython
+email-validator
+bcrypt

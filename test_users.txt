@@ -1,0 +1,14 @@
+# Test Users Created for Bruteforce Testing
+# Format: username:password:email:fullname
+# ==================================================
+
+testuser1:password123:test1@example.com:Test User One
+admin:admin123:admin@example.com:Administrator
+john_doe:john2024:john@example.com:John Doe
+sarah_wilson:sarah789:sarah@example.com:Sarah Wilson
+mike_test:mikepass:mike@example.com:Mike Test
+demo_user:demo456:demo@example.com:Demo User
+test_account:testpass:test@example.com:Test Account
+user123:123456:user123@example.com:User One Two Three
+instagram_test:igtest2024:ig@example.com:Instagram Test
+bruteforce_target:weakpass:target@example.com:Bruteforce Target
