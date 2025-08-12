@@ -1,0 +1,185 @@
+2025-08-12 10:52:50,071 [INFO] - Starting brute-force attack on http://127.0.0.1:5000/login for user 'testuser'.
+2025-08-12 10:52:50,072 [INFO] - Loaded 10 passwords from wordlist.
+2025-08-12 10:52:50,089 [INFO] - Trying password: 'password' -> Status: 401, Response: Invalid credentials
+2025-08-12 10:52:50,097 [INFO] - Trying password: 'football' -> Status: 401, Response: Invalid credentials
+2025-08-12 10:52:50,102 [INFO] - Trying password: '123456' -> Status: 401, Response: Invalid credentials
+2025-08-12 10:52:50,103 [INFO] - Trying password: 'qwerty' -> Status: 401, Response: Invalid credentials
+2025-08-12 10:52:50,110 [INFO] - Trying password: 'mypassword' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 10:52:50,110 [INFO] - Trying password: 'incorrect' -> Status: 429, Response: Too many failed attempts. Try again in 59 seconds.
+2025-08-12 10:52:50,112 [INFO] - Trying password: 'guess' -> Status: 429, Response: Too many failed attempts. Try again in 59 seconds.
+2025-08-12 10:52:50,113 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 10:52:50,113 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 10:52:50,113 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 10:52:50,118 [INFO] - Trying password: 'shadow' -> Status: 429, Response: Too many failed attempts. Try again in 59 seconds.
+2025-08-12 10:52:50,119 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 10:52:50,119 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again in 59 seconds.
+2025-08-12 10:52:50,120 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 10:52:50,123 [INFO] - Trying password: 'admin' -> Status: 429, Response: Too many failed attempts. Try again in 59 seconds.
+2025-08-12 10:52:50,124 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 10:52:50,124 [INFO] - Attack finished. Password not found in the wordlist.
+2025-08-12 10:52:50,125 [INFO] - Total execution time: 0.05 seconds.
+2025-08-12 10:53:35,814 [INFO] - Starting brute-force attack on http://127.0.0.1:5000/login for user 'testuser'.
+2025-08-12 10:53:35,815 [INFO] - Loaded 10 passwords from wordlist.
+2025-08-12 10:53:35,829 [INFO] - Trying password: 'mypassword' -> Status: 429, Response: Too many failed attempts. Try again in 14 seconds.
+2025-08-12 10:53:35,830 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 10:53:35,835 [INFO] - Trying password: '123456' -> Status: 429, Response: Too many failed attempts. Try again in 14 seconds.
+2025-08-12 10:53:35,835 [INFO] - Trying password: 'password' -> Status: 429, Response: Too many failed attempts. Try again in 14 seconds.
+2025-08-12 10:53:35,837 [INFO] - Trying password: 'football' -> Status: 429, Response: Too many failed attempts. Try again in 14 seconds.
+2025-08-12 10:53:35,838 [INFO] - Trying password: 'qwerty' -> Status: 429, Response: Too many failed attempts. Try again in 14 seconds.
+2025-08-12 10:53:35,838 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 10:53:35,840 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 10:53:35,840 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 10:53:35,840 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 10:53:35,844 [INFO] - Trying password: 'incorrect' -> Status: 429, Response: Too many failed attempts. Try again in 14 seconds.
+2025-08-12 10:53:35,849 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 10:53:35,853 [INFO] - Trying password: 'guess' -> Status: 429, Response: Too many failed attempts. Try again in 14 seconds.
+2025-08-12 10:53:35,854 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 10:53:35,855 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again in 14 seconds.
+2025-08-12 10:53:35,855 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 10:53:35,857 [INFO] - Trying password: 'shadow' -> Status: 429, Response: Too many failed attempts. Try again in 14 seconds.
+2025-08-12 10:53:35,858 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 10:53:35,860 [INFO] - Trying password: 'admin' -> Status: 429, Response: Too many failed attempts. Try again in 14 seconds.
+2025-08-12 10:53:35,860 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 10:53:35,861 [INFO] - Attack finished. Password not found in the wordlist.
+2025-08-12 10:53:35,861 [INFO] - Total execution time: 0.05 seconds.
+2025-08-12 11:09:17,182 [INFO] - Starting brute-force attack on http://127.0.0.1:5000/login for user 'testuser'.
+2025-08-12 11:09:17,182 [INFO] - Loaded 10 passwords from wordlist.
+2025-08-12 11:09:17,199 [INFO] - Trying password: 'qwerty' -> Status: 401, Response: Invalid credentials
+2025-08-12 11:09:17,200 [INFO] - Trying password: '123456' -> Status: 401, Response: Invalid credentials
+2025-08-12 11:09:17,203 [INFO] - Trying password: 'password' -> Status: 401, Response: Invalid credentials
+2025-08-12 11:09:17,204 [INFO] - Trying password: 'football' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:09:17,208 [INFO] - Trying password: 'mypassword' -> Status: 401, Response: Invalid credentials
+2025-08-12 11:09:17,208 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:09:17,215 [INFO] - Trying password: 'guess' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:09:17,215 [INFO] - Trying password: 'incorrect' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:09:17,217 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:09:17,217 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:09:17,221 [INFO] - Trying password: 'admin' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:09:17,222 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:09:17,222 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:09:17,224 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:09:17,238 [INFO] - Trying password: 'shadow' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:09:17,238 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:09:17,239 [INFO] - Attack finished. Password not found in the wordlist.
+2025-08-12 11:09:17,240 [INFO] - Total execution time: 0.06 seconds.
+2025-08-12 11:10:04,678 [INFO] - Starting brute-force attack on http://127.0.0.1:5000/login for user 'testuser'.
+2025-08-12 11:10:04,678 [INFO] - Loaded 10 passwords from wordlist.
+2025-08-12 11:10:05,202 [INFO] - Trying password: 'qwerty' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:05,204 [INFO] - Trying password: 'mypassword' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:05,204 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:05,206 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:05,206 [INFO] - Trying password: 'password' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:05,208 [INFO] - Trying password: '123456' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:05,210 [INFO] - Trying password: 'football' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:05,211 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:05,212 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:05,212 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:05,723 [INFO] - Trying password: 'incorrect' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:05,727 [INFO] - Trying password: 'guess' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:05,728 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:05,732 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:05,738 [INFO] - Trying password: 'shadow' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:05,739 [INFO] - Trying password: 'admin' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:05,742 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:05,742 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:05,743 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:05,744 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:05,746 [INFO] - Attack finished. Password not found in the wordlist.
+2025-08-12 11:10:05,747 [INFO] - Total execution time: 1.07 seconds.
+2025-08-12 11:10:27,190 [INFO] - Starting brute-force attack on http://127.0.0.1:5000/login for user 'testuser'.
+2025-08-12 11:10:27,191 [INFO] - Loaded 35 passwords from wordlist.
+2025-08-12 11:10:27,708 [INFO] - Trying password: 'mypassword' -> Status: 401, Response: Invalid credentials
+2025-08-12 11:10:27,708 [INFO] - Trying password: 'password' -> Status: 401, Response: Invalid credentials
+2025-08-12 11:10:27,709 [INFO] - Trying password: 'football' -> Status: 401, Response: Invalid credentials
+2025-08-12 11:10:27,711 [INFO] - Trying password: '123456' -> Status: 401, Response: Invalid credentials
+2025-08-12 11:10:27,711 [INFO] - Trying password: 'qwerty' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:27,712 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:28,228 [INFO] - Trying password: 'incorrect' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:28,231 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:28,237 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:28,240 [INFO] - Trying password: 'guess' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:28,241 [INFO] - Trying password: 'shadow' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:28,242 [INFO] - Trying password: 'admin' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:28,243 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:28,243 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:28,245 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:28,246 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:28,749 [INFO] - Trying password: '' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:28,754 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:28,761 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:28,763 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:28,764 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:28,765 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:28,770 [INFO] - Trying password: '' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:28,770 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:28,771 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:28,771 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:29,262 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:29,263 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:29,272 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:29,272 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:29,274 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:29,276 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:29,281 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:29,282 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:29,282 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:29,282 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:29,779 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:29,779 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:29,782 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:29,783 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:29,788 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:29,788 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:29,790 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:29,790 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:29,791 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:29,792 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:30,287 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:30,288 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:30,290 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:30,291 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:30,297 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:30,297 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:30,297 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:30,299 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:30,300 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:30,300 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:30,806 [INFO] - Trying password: '' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:30,810 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:30,815 [INFO] - Trying password: '' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:30,818 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:30,818 [INFO] - Trying password: '' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:30,820 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:30,823 [INFO] - Trying password: '' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:30,825 [INFO] - Trying password: '' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:10:30,826 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:30,826 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:10:30,828 [INFO] - Attack finished. Password not found in the wordlist.
+2025-08-12 11:10:30,829 [INFO] - Total execution time: 3.64 seconds.
+2025-08-12 11:17:07,986 [INFO] - Starting brute-force attack on http://127.0.0.1:5000/login for user 'testuser'.
+2025-08-12 11:17:07,988 [INFO] - Loaded 40 passwords from wordlist.
+2025-08-12 11:17:08,514 [INFO] - Trying password: 'mypassword123' -> Status: 200, Response: Login successful
+2025-08-12 11:17:08,516 [INFO] - Trying password: 'mypassword123' -> Status: 200, Response: Login successful
+2025-08-12 11:17:08,517 [INFO] - ========================================
+2025-08-12 11:17:08,518 [INFO] - Trying password: 'mypassword123' -> Status: 200, Response: Login successful
+2025-08-12 11:17:08,519 [INFO] - Trying password: 'mypassword123' -> Status: 200, Response: Login successful
+2025-08-12 11:17:08,520 [INFO] - SUCCESS! Password found: mypassword123
+2025-08-12 11:17:08,521 [INFO] - ========================================
+2025-08-12 11:17:08,524 [INFO] - Trying password: 'mypassword123' -> Status: 200, Response: Login successful
+2025-08-12 11:17:08,525 [INFO] - Total execution time: 0.54 seconds.
+2025-08-12 11:20:06,616 [INFO] - Starting brute-force attack on http://127.0.0.1:5000/login for user 'testuser'.
+2025-08-12 11:20:06,619 [INFO] - Loaded 8 passwords from wordlist.
+2025-08-12 11:20:07,151 [INFO] - Trying password: 'password123' -> Status: 401, Response: Invalid credentials
+2025-08-12 11:20:07,153 [INFO] - Trying password: 'password' -> Status: 401, Response: Invalid credentials
+2025-08-12 11:20:07,153 [INFO] - Trying password: 'myPass' -> Status: 401, Response: Invalid credentials
+2025-08-12 11:20:07,154 [INFO] - Trying password: 'mypassoerd' -> Status: 401, Response: Invalid credentials
+2025-08-12 11:20:07,167 [INFO] - Trying password: '112345678' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:20:07,168 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:20:07,669 [INFO] - Trying password: 'MYPASSWORDF' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:20:07,669 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:20:07,671 [INFO] - Trying password: 'mypassword123' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:20:07,671 [INFO] - Trying password: 'mypassword12345' -> Status: 429, Response: Too many failed attempts. Try again later.
+2025-08-12 11:20:07,672 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:20:07,672 [WARNING] - Rate limit hit. Pausing for a moment.
+2025-08-12 11:20:07,673 [INFO] - Attack finished. Password not found in the wordlist.
+2025-08-12 11:20:07,674 [INFO] - Total execution time: 1.05 seconds.
